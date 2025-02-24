@@ -1,0 +1,17 @@
+Freecodecamp:
+1. Scientific Computing with Python
+https://www.freecodecamp.org/learn/scientific-computing-with-python/
+
+2. Information Security
+https://www.freecodecamp.org/learn/information-security/
+
+3. Machine Learning with Python
+https://www.freecodecamp.org/learn/machine-learning-with-python/
+
+4. (New) Foundational C# with Microsoft
+https://www.freecodecamp.org/learn/foundational-c-sharp-with-microsoft/
+
+
+
+
+
