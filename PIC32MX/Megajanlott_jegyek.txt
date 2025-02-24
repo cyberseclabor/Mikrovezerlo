@@ -11,6 +11,24 @@ https://www.freecodecamp.org/learn/machine-learning-with-python/
 4. (New) Foundational C# with Microsoft
 https://www.freecodecamp.org/learn/foundational-c-sharp-with-microsoft/
 
+----------------------------------
+
+NetAcad (Cisco)
+1. Networking Basics
+https://www.netacad.com/courses/networking-basics?courseLang=en-US
+
+2. Network Addressing and Basic Troubleshooting
+https://www.netacad.com/courses/network-addressing-and-basic-troubleshooting?courseLang=en-US
+
+3. Network Defense
+https://www.netacad.com/courses/network-defense?courseLang=en-US
+
+4. Python Essentials 1
+https://www.netacad.com/courses/python-essentials-1?courseLang=en-US
+
+----------------------------------
+
+CodeRed
 
 
 
