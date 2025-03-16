@@ -1,0 +1,5 @@
+Adatlap (esp32 WROOM 32D
+https://www.espressif.com/sites/default/files/documentation/esp32_datasheet_en.pdf
+
+Teljes referencia
+https://www.espressif.com/sites/default/files/documentation/esp32_technical_reference_manual_en.pdf
