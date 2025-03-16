@@ -1,5 +1,11 @@
-Adatlap (esp32 WROOM 32D
+Adatlap (esp32 WROOM 32D)
+https://www.espressif.com/sites/default/files/documentation/esp32-wroom-32d_esp32-wroom-32u_datasheet_en.pdf
+https://www.espressif.com/sites/default/files/documentation/production_testing_guide_en.pdf
+
+esp32 sorozat
 https://www.espressif.com/sites/default/files/documentation/esp32_datasheet_en.pdf
 
 Teljes referencia
 https://www.espressif.com/sites/default/files/documentation/esp32_technical_reference_manual_en.pdf
+
+https://www.espressif.com/en/support/documents/technical-documents
