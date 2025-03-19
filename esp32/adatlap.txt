@@ -9,3 +9,6 @@ Teljes referencia
 https://www.espressif.com/sites/default/files/documentation/esp32_technical_reference_manual_en.pdf
 
 https://www.espressif.com/en/support/documents/technical-documents
+
+AT parancsok
+https://docs.ai-thinker.com/_media/esp32/docs/esp32_at_commands.pdf
