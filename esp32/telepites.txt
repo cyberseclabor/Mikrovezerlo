@@ -1,0 +1,5 @@
+Setting up Arduino IDE for ESP32 development (ESP32 + Arduino series)
+https://www.youtube.com/watch?v=wNtGHCrO7E4
+
+Arduino fejlesztőkörnyezet felkészítése esp8266-os (esp32) eszközök alkalmazására
+https://webelektronika.com/article/20220529-esp8266-esp32-arduino
