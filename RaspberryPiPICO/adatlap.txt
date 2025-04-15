@@ -4,3 +4,8 @@ https://datasheets.raspberrypi.com/rp2040/rp2040-datasheet.pdf
 Getting started with Raspberry Pi Pico-series
 C/C++ development with Raspberry Pi Pico-series and other Raspberry Pi microcontroller-based boards.
 https://datasheets.raspberrypi.com/pico/getting-started-with-pico.pdf
+
+
+MicroPython telepítése Raspberry Pi Pico W-re
+https://webelektronika.com/article/20250416-rpi-micropython
+
